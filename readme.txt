@@ -5,4 +5,4 @@ API : https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API k
 
 
 Use
-API : https://api.openweathermap.org/data/2.5/weather?q=Bhubaneshwar&appid=4638b6b2693e27f748d02d3b0ea5617e
+API : https://api.openweathermap.org/data/2.5/weather?q=Bhubaneshwar&appid=
