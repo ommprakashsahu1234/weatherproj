@@ -1,4 +1,4 @@
-API Key : 7facf94f330f64db87af1862c4e6b34d
+API Key :
 
 Syntax : 
 API : https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
